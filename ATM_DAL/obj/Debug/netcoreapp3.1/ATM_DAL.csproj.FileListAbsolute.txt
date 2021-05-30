@@ -1,0 +1,12 @@
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.csprojAssemblyReference.cache
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.AssemblyInfo.cs
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\bin\Debug\netcoreapp3.1\ATM_DAL.deps.json
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\bin\Debug\netcoreapp3.1\ATM_DAL.dll
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\bin\Debug\netcoreapp3.1\ATM_DAL.pdb
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\bin\Debug\netcoreapp3.1\ATM_BO.dll
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\bin\Debug\netcoreapp3.1\ATM_BO.pdb
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.csproj.CopyComplete
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.dll
+C:\Users\Muhammad Hasan\Desktop\sem7\EAD\Assignment 1\Assignment1\ATM_DAL\obj\Debug\netcoreapp3.1\ATM_DAL.pdb
